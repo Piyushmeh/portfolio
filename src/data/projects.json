@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Imagify",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an AI-powered image generator that creates unique visuals based on text prompts.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Trago",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an travel guide that provides personalized recommendations and insights.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Piyushmeh/travelguide"
+  }
+]
